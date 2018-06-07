@@ -1,11 +1,15 @@
+<<<<<<< HEAD
 #Adds all 'requires' from the tripadCLIsor file, functions like the environment file
 require "./lib/tripadCLIsor.rb"
 
+=======
+>>>>>>> 953c40abcb060fc33602e670cfc3640a32a398f9
 
 #adds CLI in the TripadCLIsor namespace
 class TripadCLIsor::CLI
 
   def call
+<<<<<<< HEAD
 
     scraper=Scraper.new   #initializing scraper instance
 
@@ -29,5 +33,8 @@ class TripadCLIsor::CLI
     end
   end
 
+=======
+    puts "What up, yo?"
+>>>>>>> 953c40abcb060fc33602e670cfc3640a32a398f9
 
 end
