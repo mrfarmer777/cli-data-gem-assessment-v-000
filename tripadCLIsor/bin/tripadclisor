@@ -8,5 +8,4 @@ require './lib/tripadCLIsor'
 
 
 TripadCLIsor::CLI.new.call
-TripadCLIsor::CLI.call
 
