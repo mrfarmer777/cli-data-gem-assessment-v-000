@@ -6,8 +6,7 @@ require './lib/tripadCLIsor'
 #let's get the ball rolling...
 #This is the CLI Controller
 
-<<<<<<< HEAD
+
 TripadCLIsor::CLI.new.call
-=======
 TripadCLIsor::CLI.call
->>>>>>> 953c40abcb060fc33602e670cfc3640a32a398f9
+
